@@ -87,6 +87,10 @@ LLM のプロジェクト指示にこの Spec を読み込ませることで、
 
 ## License
 
+©2026 K² Resonance Lab
+
+
+
 This work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
 You are free to share and adapt this specification, even for commercial purposes,
