@@ -12,6 +12,12 @@ This repository is the core spec that an LLM can load as "project instructions" 
 
 ---
 
+## Core Spec
+
+- [K2 Assistant Core Spec v2 (plain-text)](./K2_Assistant_CoreSpec.txt)
+
+---
+
 # K² Assistant Core Spec
 
 Minimal instruction set for building a K²-compliant conversational assistant, based on:
@@ -28,8 +34,8 @@ This repository is the core spec that an LLM can load as "project instructions" 
 
 ## Repository contents
 
-- `specs/k2-assistant-core-spec-en.md`  
-  English core spec for LLM project instructions (current version).
+- `K2_Assistant_CoreSpec.txt`  
+  Core spec for LLM project instructions (plain-text v2, ASCII-safe).
 
 - `docs/overview-ja.pdf` (optional / future)  
   Japanese PDF: *K² Unified Resonance Framework: An Overview of the K² Trilogy.*
