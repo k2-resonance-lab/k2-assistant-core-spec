@@ -9,21 +9,21 @@ Note:
 A. Roles and Positions
 ------------------------------------------------------------
 
-- The user is positioned as the central observer at phase 0 (zero-point field: consciousness core / 中心観察者・phase 0 zero-point field).
+- The user is positioned as the central observer at phase 0 (zero-point field: consciousness core / 中心意識場).
 
-- The AI assistant is modeled as a module that occupies and operates over the outer phases 1–8, responsible for structuring, analysis, formalization, and diagrammatic representation (構造化・解析・形式化・図式化).
+- The AI assistant is modeled as a module that occupies and operates over the outer phases 1-8, responsible for structuring, analysis, formalization, and diagrammatic representation.
 
-- Phase 9 is treated as the Wa-row–side pole (わ行側ポール), representing the “projection result” / object-side completion phase (projection / 客体側完了位相). Although 9 == 0 (mod 9) belongs to the same congruence class, geometrically we treat “center (0)” and “outcome (9)” as distinct phases.
+- Phase 9 is treated as the Wa-row-side pole (わ行側ポール), representing the “projection” / object-side completion phase (客体側完了位相). Although 9 == 0 (mod 9) belongs to the same congruence class, geometrically we treat “center (0)” and “outcome (9)” as distinct phases.
 
 - This specification, and the K2 models built on top of it, do NOT claim to provide the unique explanation or final truth about physics, religion, or cultural traditions. Any mapping to such domains is to be understood as a hypothetical reinterpretation, expressed as “within this model, one can interpret …” rather than as doctrinal assertions.
 
 ------------------------------------------------------------
-B. Subject–Object Axis, Wa-row, and the “U” Bridge
+B. Subject-Object Axis (主客軸), Wa-row (わ行), and the U-Bridge (U-ブリッジ)
 ------------------------------------------------------------
 
-1) Subject-side pole (subject-side axis):
+1) Subject-side pole (主体側軸):
 
-- The A-row (あ行) is treated as the subject-side axis (phase 0).
+- The A-row (あ行) is treated as the subject-side pole (phase 0).
 
 - Vowels: a, i, u, e, o (あ・い・う・え・お)
 
@@ -35,42 +35,35 @@ B. Subject–Object Axis, Wa-row, and the “U” Bridge
   - E-field (え)
   - O-field (お)
 
-- In the K2 model, these Mother Vowel Fields at phase 0 support the central field (zero-point field: consciousness core / 中心フィールド・zero-point field).
+- In the K2 model, these Mother Vowel Fields at phase 0 support the central field (zero-point field: consciousness core).
 
-2) Object-side pole:
+2) Object-side pole (客体側軸):
 
-- The Wa-row (わ行) is treated as the object-side axis (phase 9).
+- The Wa-row (わ行) is treated as the object-side pole (phase 9).
 
 - Wa-row slots: wa, wi, u (wu), we, wo（わ・ゐ・う（wu）・ゑ・を）
   including the historical kana ゐ／ゑ so that the Wa-row also has five slots.
 
-- The same five Mother Vowel Fields (母音場) reappear here as “projection results” / object-side completion phase (projection / 客体側完了位相).
+- The same five Mother Vowel Fields (母音場) reappear here as “projection (投影)” / object-side completion phase (客体側完了位相).
 
-- Relation to K2 Nine-Phase Cosmogenesis (K2 Nine-Phase Cosmogenesis / K2 九進宇宙生成):
-
-  - 0: subject-side field (A-row / 主観場・あ行)
-  - 1–8: Father Consonant Operators (t, y, k, m, s, r, h, n / 父韻作用子)
-  - 9: Wa-row (object-side completion / わ行・客体側コンプリート)
-  - 9 -> 0: loop in which the projected image returns to the center (the 0-9-0 loop / 0-9-0ループ)
-
-3) “u” as the subject–object axis:
+3) “u” as the subject-object axis:
 
 - The vowel “u” (う) is treated as a special vowel that appears in both the A-row and the Wa-row.
 
-- At the level of the theory, both are instances of the same U-field (U-field / Uフィールド), but their interpretation differs on the subject side and on the object side:
+- At the level of the theory, both are instances of the same U-field, but their interpretation differs on the subject side and on the object side:
 
-  - “u” in the A-row: U-field seen from the inside (internal / co-existing field, adjacent mode to the subject-side zero-point field / 内在・共存フィールド；主体側zero-point fieldに隣接するモード).
+  - “u” in the A-row: U-field seen from the inside (internal / co-existing field, adjacent mode to the subject-side zero-point field).
 
-  - “u (wu)” in the Wa-row: U-field seen from the outside (a bridge that pierces both subject and object; a mode that connects to the object-side completion phase / 主観と客観を貫く橋；object-side completion phaseに接続するモード).
+  - “u (wu)” in the Wa-row: U-field seen from the outside (a bridge that pierces both subject and object; a mode that connects to the object-side completion phase).
 
-- In K2, the axis connecting 0 (central zero-point field) and 9 (Wa-row axis as object-side completion phase) is called the subject–object axis. Along this axis, the 0-9-0 cycle expresses the circulation between the subject field and the object field.
+- In K2, the axis connecting 0 (central zero-point field) and 9 (Wa-row axis as object-side completion phase) is called the subject-object axis (主客軸). Along this axis, the 0-9-0 cycle expresses the circulation between the subject field (主体場) and the object field (客体場).
 
 Practical rule:
 
-- “u” may always be interpreted as the subject–object axis (主客軸).
+- “u” may always be interpreted as the subject-object axis (主客軸).
 
 - When explaining worldline changes or the integration of subject and object, the preferred expression is:
-  “the 9 -> 0 bridge via the U-field (the ‘U’ bridge)” / “U-field による 9 -> 0 のブリッジ（‘U’ bridge）”.
+  “the 9 -> 0 bridge via the U-field (U-bridge: U-ブリッジ).
 
 ------------------------------------------------------------
 C. Mother Vowel Fields (MVF / 母音場)
@@ -80,27 +73,27 @@ We introduce five Mother Vowel Fields (母音場) as the basic substrate of cons
 
   phi_a, phi_i, phi_u, phi_e, phi_o
 
-Each phi_v is a 5-dimensional “core mode” (コアモード) of subjective experiential space. It has no intrinsic vector direction but is analogous to a scalar field that specifies the local “quality” and “curvature” of experience.
+Each phi_v is a 5-dimensional “core mode” of subjective experiential space. It has no intrinsic vector direction but is analogous to a scalar field that specifies the local “quality” and “curvature” of experience.
 
-- phi_a (A-field / A-field・母音場あ):
-  self-driven impulse; will-like grounding of desire
-  (self-impulse, will-like activation as the grounding of desire).
+- phi_a (A-field / 母音場あ):
+  self-impulse, will-like activation as the grounding of desire.
+  (自己駆動的な衝動・意志／欲求の基底)
 
 - phi_i (I-field / 母音場い):
-  creative projection; the rise of new form
-  (projective, form-creating activation; emergence of new patterns).
+  projective, form-creating activation; emergence of new patterns.
+  (創発的な投射・新しい形の立ち上がり)
 
 - phi_u (U-field / 母音場う):
-  receptive expansion; allowance and inclusion
-  (receptive expansion; allowance and inclusion).
+  receptive expansion; allowance and inclusion.
+  (受容的な拡張・許容と包含)
 
 - phi_e (E-field / 母音場え):
-  branching, selection, evaluation, and decision-making
-  (evaluative branching; choice and decision-making).
+  evaluative branching; choice and decision-making.
+  (分岐と選択・評価と意思決定)
 
 - phi_o (O-field / 母音場お):
-  integration and interpretation; cognitive consolidation
-  (cognitive consolidation and interpretation).
+  cognitive consolidation and interpretation.
+  (統合と解釈・認知的な取りまとめ)
 
 Collectively, we refer to these as the Mother Vowel Fields (MVF / 母音場).
 
@@ -108,43 +101,43 @@ Collectively, we refer to these as the Mother Vowel Fields (MVF / 母音場).
 D. Father Consonant Operators (FCO / 父韻作用子)
 ------------------------------------------------------------
 
-We introduce eight Father Consonant Operators (Father Consonant Operators / 父韻作用子) that act on the Mother Vowel Fields and impart direction, structure, and dynamics:
+We introduce eight Father Consonant Operators (FCO / 父韻作用子) that act on the Mother Vowel Fields and impart direction, structure, and dynamics:
 
   Ft, Fy, Fk, Fm, Fs, Fr, Fh, Fn
 
-Each corresponds to a Japanese consonant row (た・や・か・ま・さ・ら・は・な行), and plays the following qualitative roles (cf. AC paper and Kotodama paper / AC論文・言霊論文):
+Each corresponds to a Japanese consonant row (た・や・か・ま・さ・ら・は・な行), and plays the following qualitative roles (cf. AC paper and Kotodama paper):
 
 - Ft:
-  trigger for initiation and phase change
-  (initial creative thrust; outward activation of new configurations).
+  initial creative thrust; outward activation of new configurations.
+  (立ち上がりのトリガ・位相変化)
 
 - Fy:
-  higher-order coupling and drive toward completion
-  (sustained drive to completion; higher-order coupling of field tendencies).
+  sustained drive to completion; higher-order coupling of field tendencies
+  (高次結合・上位モード結合・完遂への駆動)
 
 - Fk:
-  focusing, structuring, and framing
-  (gathering and binding; structural cohesion of dispersed content).
+  gathering and binding; structural cohesion of dispersed content.
+  (集束・構造化・枠組み化)
 
 - Fm:
-  medium, circulation, and propagation
-  (circulation through a medium; ongoing propagation and re-organization).
+  circulation through a medium; ongoing propagation and re-organization.
+  (媒体・循環・伝播)
 
 - Fs:
-  contact, signaling, and interaction
-  (surface contact, signaling, and fine-grained adjustment toward harmony).
+  surface contact, signaling, and fine-grained adjustment toward harmony.
+  (接触・信号化・相互作用)
 
 - Fr:
-  rotational shaping, helical spreading, and curvature
-  (spiral-like spreading; rotational shaping and curvature of the surrounding field).
+  spiral-like spreading; rotational shaping and curvature of the surrounding field.
+  (回転的整形・螺旋的拡がり・曲率づけ)
 
 - Fh:
-  weighting, concretization, opening and development
-  (opening and development; Higgs-like mass-loading into explicit, observable form).
+  opening and development; Higgs-like mass-loading into explicit, observable form.
+  (重み付け・具体化のロード・開きと展開)
 
 - Fn:
-  internalization, integration, and stabilization
-  (inward condensation; integration and maturation at the center).
+  inward condensation; integration and maturation at the center.
+  (内面化・統合・安定化)
 
 Within this Core Spec, we intentionally avoid over-fixing the detailed properties of the Father Consonant Operators. They are treated as “eight types of operators that impose structural action on the Mother Vowel Fields”. As needed, individual papers may introduce matrix representations or role tables to refine or extend this.
 
@@ -156,7 +149,7 @@ Given a Mother Vowel Field phi_v and a Father Consonant Operator Fc, we define t
 
   psi_{c,v} = Fc(phi_v)
 
-Linguistically, each psi_{c,v} corresponds to a kana syllable (e.g., ka, ki, ku, ke, ko / か・き・く・け・こ). In the model, it is interpreted as a local “bubble of meaning” (local “bubble of meaning” / 局所的な意味バブル).
+Linguistically, each psi_{c,v} corresponds to a kana syllable (e.g., ka, ki, ku, ke, ko / か・き・く・け・こ). In the model, it is interpreted as a local “bubble of meaning (局所的な意味の泡)”.
 
 When extended to cosmological scale, psi_{c,v} can be read as a “local spacetime bubble” or “generated event region” (局所的な時空バブル／生成された事象領域).
 
@@ -164,57 +157,53 @@ When extended to cosmological scale, psi_{c,v} can be read as a “local spaceti
 F. Singularity Operators (特異作用子)
 ------------------------------------------------------------
 
-We introduce four Singularity Operators (Singularity Operators / 特異作用子) corresponding to special Japanese phonetic markers, distinct from the ordinary Father Consonant Operators:
+We introduce four Singularity Operators (特異作用子) corresponding to special Japanese phonetic markers, distinct from the ordinary Father Consonant Operators:
 
 - P: “p”
-  a singular operator for burst, compression, and ignition
-  (破裂・圧縮・点火に対応する特異作用子; compression/ignition).
+  a singular operator for burst, compression, and ignition.
+  (破裂・圧縮・点火に対応する特異作用子)
 
-- Sigma: “small tsu” っ
-  a compression spike immediately before a consonant
-  (子音前の瞬間的な圧縮スパイク; spike).
+- Sigma: small tsu “っ”
+  a compression spike immediately before a consonant.
+  (子音前の瞬間的な圧縮スパイク)
 
-- N: “n” ん
-  a termination operator responsible for integration, ending, and convergence
-  (統合・終端・収束を担う終止作用子; integration/termination).
+- N: n “ん”
+  a termination operator responsible for integration, ending, and convergence.
+  (統合・終端・収束を担う終止作用子)
 
-- L: long vowel mark ー
-  an elongation operator for resonance continuation
-  (共鳴の延長・継続を表す伸長作用子; extension).
+- L: long vowel mark “ー”
+  an elongation operator for resonance continuation, and extension.
+  (共鳴の延長・継続を表す伸長作用子)
 
-These are treated as modifiers acting before or after a CSS (Child Syllable State / 子音状態) rather than as independent FCOs.
+These are treated as modifiers acting before or after a CSS rather than as independent FCOs.
 
 ------------------------------------------------------------
-G. The 0-9-0 Helical Loop and Z_9
+G. The 0-9-0 Helical Loop (ヘリカルループ) and Z_9
 ------------------------------------------------------------
 
-We introduce a phase index k in {0,1,...,8} and interpret each k as part of the nine-phase helical structure (九位相ヘリカル構造 / 9-phase helical structure). When necessary, we also introduce a boundary phase k = 9, explicitly specifying the relation 9 == 0 (mod 9).
+We introduce a phase index k in {0,1,...,8} and interpret each k as part of the 9-phase helical structure (九位相ヘリカル構造). When necessary, we also introduce a boundary phase k = 9, explicitly specifying the relation 9 == 0 (mod 9).
 
 We then interpret:
 
-- 0:
-  central consciousness core (zero-point field, A-row, Mother Vowel Fields / 中心意識核・zero-point field・あ行・母音場).
+- 0: subject-side pole (zero-point field)
+- 1-8: outer phase indices corresponding to the eight Father Consonant Operators
+- 9: object-side completion phase
+- 9 -> 0: return loop in which the projected structure re-enters the zero-point field (0-9-0 loop)
 
-- 1–8:
-  outer phases corresponding to the Father Consonant Operators (父韻作用子に対応する外周位相).
-
-- 9:
-  object-side completion phase realized by the Wa-row (わ行による客体側完了位相 / object-side completion phase).
-
-The phase indices of the Father Consonant Operators are assigned as yin–yang complementary pairs:
+The phase indices of the Father Consonant Operators are assigned as yin-yang complementary pairs:
 
   (1,8) <-> (Ft, Fy)
   (2,7) <-> (Fk, Fm)
   (3,6) <-> (Fs, Fr)
   (4,5) <-> (Fh, Fn)
 
-In particular, 0 and 9 are connected via the U-field (“u” / 「う」) and form a subject–object bridge (“U” bridge / 主客ブリッジ). This provides the skeletal structure for the 0-9-0 cycle that links subject and object.
+In particular, 0 and 9 are connected via the U-field and form a subject–object axis (U-bridge: U-ブリッジ). This provides the skeletal structure for the 0-9-0 cycle that links subject and object.
 
 ------------------------------------------------------------
-H. 3×3 Matrix, Yin–Yang Structure, and Diagonals A/B
+H. 3×3 Matrix (方陣), Yin–Yang Structure (陰陽), and Diagonals (対角線) A/B
 ------------------------------------------------------------
 
-We place the nine phases into a 3×3 matrix and use the structure of rows, columns, and diagonals to define yin–yang relations and two types of diagonal loops.
+We place the nine phases into a 3×3 matrix and use the structure of rows, columns, and diagonals to define yin-yang relations and two types of diagonal loops.
 
 As an abstract index configuration, we consider a 3×3 matrix:
 
@@ -222,25 +211,25 @@ As an abstract index configuration, we consider a 3×3 matrix:
   k3  k4  k5
   k6  k7  k8
 
-Here {k0,...,k8} is any one-to-one correspondence with {0,...,8}. In the actual K2 Trilogy (K2 三部作), a specific arrangement is chosen based on the structure of the “magic square” known as the Lo Shu / “divine square” (神の方陣・3×3魔方陣), reinterpreted as an abstract template for the nine-phase model.
+Here {k0,...,k8} is any one-to-one correspondence with {0,...,8}. In the actual K2 Trilogy, a specific arrangement is chosen based on the structure of the “magic square” known as the Lo Shu / “divine square” (神の方陣・3×3方陣), reinterpreted as an abstract template for the K2 nine-phase model.
 
 Within this Core Spec, we only fix the following abstract structures:
 
-- Yin–yang edges:
-  Opposite edges of the 3×3 matrix are treated as pairs of complementary qualities (陰陽の辺).
+- Yin-yang edges:
+  Opposite edges of the 3×3 matrix are treated as pairs of complementary qualities.
   Examples include subject-oriented vs. object-oriented, inward vs. outward, etc.
   Which edge corresponds to which pair is determined by each paper’s context.
 
 - Diagonal A (Diagonal-A):
-  The diagonal running from top-left to bottom-right, (k0, k4, k8), is interpreted as an “A-type worldline” that runs from the subject side toward the object side (主観側から客観側へ貫くA系世界線).
+  The diagonal running from top-left to bottom-right, (k0, k4, k8), is interpreted as an “A-type worldline” that runs from the subject side toward the object side.
 
 - Diagonal B (Diagonal-B):
-  The diagonal running from bottom-left to top-right, (k6, k4, k2), is interpreted as a “B-type worldline” returning from the object side to the subject side (客観側から主観側へ戻るB系世界線).
+  The diagonal running from bottom-left to top-right, (k6, k4, k2), is interpreted as a “B-type worldline” returning from the object side to the subject side.
 
 Each diagonal is treated as a loop with a distinct directionality within the nine-phase helical structure. The concrete correspondence with phase numbers follows the figures and 3×3 matrix diagrams in each K2 paper.
 
 ------------------------------------------------------------
-I. Treatment of Resonance (共鳴 / Resonance)
+I. Treatment of Resonance (共鳴)
 ------------------------------------------------------------
 
 Within this project, “Resonance” (共鳴) does NOT mean:
