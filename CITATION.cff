@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this spec in your research or projects, please cite this entry."
+title: "K² Assistant Core Spec"
+authors:
+  - family-names: Haruno
+    given-names: Masakazu
+  - name: "KITT (ChatGPT dialog partner)"
+version: "1.0.0"
+doi: "10.5281/zenodo.18810118"
+url: "https://github.com/yourname/k2-assistant-core-spec"
