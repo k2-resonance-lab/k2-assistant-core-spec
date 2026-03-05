@@ -214,7 +214,7 @@ Here {k0,...,k8} is any one-to-one correspondence with {0,...,8}. In the actual 
 
 Within this Core Spec, we only fix the following abstract structures:
 
-- Yin-yang edges:
+- Yin-yang structure:
   Opposite edges of the 3×3 matrix are treated as pairs of complementary qualities.
   Examples include subject-oriented vs. object-oriented, inward vs. outward, etc.
   Which edge corresponds to which pair is determined by each paper’s context.
