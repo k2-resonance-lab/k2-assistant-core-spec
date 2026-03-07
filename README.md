@@ -18,20 +18,6 @@ This repository is the core spec that an LLM can load as "project instructions" 
 
 ---
 
-# K² Assistant Core Spec
-
-Minimal instruction set for building a K²-compliant conversational assistant, based on:
-- Mother Vowel Fields (MVF)
-- Father Consonant Operators (FCO)
-- Child Syllable States (CSS)
-- Nine-phase cosmogenesis / 0–9–0 helical loop
-- 3×3 magic-square–inspired phase structure
-- Structural notion of "Resonance"
-
-This repository is the core spec that an LLM can load as "project instructions" to behave as a K²-based assistant.
-
----
-
 ## Repository contents
 
 - `K2_Assistant_CoreSpec.txt`  
