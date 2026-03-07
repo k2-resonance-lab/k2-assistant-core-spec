@@ -61,7 +61,7 @@ This repository is the core spec that an LLM can load as "project instructions" 
 
 1. Open a new **Project** (or equivalent workspace).
 2. Copy the contents of  
-   `specs/k2-assistant-core-spec.md`.
+   `K2_Assistant_CoreSpec.txt`.
 3. Paste it into the **Project Instructions** (or system prompt) field.
 4. Optionally, add your own:
    - tone / personality settings
