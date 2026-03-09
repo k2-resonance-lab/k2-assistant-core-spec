@@ -210,10 +210,13 @@ As an abstract index configuration, we consider a 3×3 matrix:
   k3  k4  k5
   k6  k7  k8
 
-Here {k0,...,k8} is any one-to-one correspondence with {0,...,8}. In the actual K2 Trilogy, a specific arrangement is chosen based on the structure of the “magic square” known as the Lo Shu / “divine square” (神の方陣・3×3方陣), reinterpreted as an abstract template for the K2 Nine-Phase cosmogenesis model.
+Here {k0,...,k8} is any fixed one-to-one correspondence with {0,...,8}.
+For the purposes of this specification, only the following abstract properties matter:
+In particular, the configuration is assumed to admit a cyclic symmetry over Z_9 and a mirror symmetry between opposite edges, but the explicit realization is left to each implementation.
+it provides a central index k4, four opposite edges, and two diagonals passing through the center.
+The concrete assignment of indices to phase numbers and operators (and any specific complementary pairings) is left to each K2 paper.
 
 Within this Core Spec, we only fix the following abstract structures:
-
 - Yin-yang structure:
   Opposite edges of the 3×3 matrix are treated as pairs of complementary qualities.
   Examples include subject-oriented vs. object-oriented, inward vs. outward, etc.
