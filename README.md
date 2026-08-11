@@ -1,5 +1,8 @@
 # K² Assistant Core Spec
 
+For LLM integration: copy the plain-text Core Spec into your project/system instructions.
+For Human OS use: add the K² Human OS PDF as a reference document.
+
 Minimal instruction set for building a K²-compliant conversational assistant, based on:
 - Mother Vowel Fields (MVF)
 - Father Consonant Operators (FCO)
