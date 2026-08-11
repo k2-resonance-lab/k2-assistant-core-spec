@@ -107,43 +107,59 @@ Collectively, we refer to these as the Mother Vowel Fields (MVF / 母音場).
 D. Father Consonant Operators (FCO / 父韻作用子)
 ------------------------------------------------------------
 
-We introduce eight Father Consonant Operators (FCO / 父韻作用子) that act on the Mother Vowel Fields and impart direction, structure, and dynamics:
+We introduce eight Father Consonant Operators (FCO / 父韻作用子)
 
-  Ft, Fy, Fk, Fm, Fs, Fr, Fh, Fn
+that act on the Mother Vowel Fields and impart directional and
 
-Each corresponds to a Japanese consonant row (た・や・か・ま・さ・ら・は・な行), and plays the following qualitative roles (cf. AC paper and Kotodama paper):
+structural transformation:
+
+Ft, Fy, Fk, Fm, Fs, Fr, Fh, Fn
+
+Their qualitative roles are treated as phenomenological
+
+reinterpretations of the traditional kotodama dynamic rhymes
+
+(力動韻):
 
 - Ft:
-  initial creative thrust; outward activation of new configurations.
-  (立ち上がりのトリガ・位相変化)
+  dynamic force of beginning (始まりの力動):
+  initiates the emergence of a new configuration from the center.
+  (中心から新たな構成を立ち上げる初期位相作用)
 
 - Fy:
-  sustained drive to completion; higher-order coupling of field tendencies
-  (高次結合・上位モード結合・完遂への駆動)
+  dynamic force of sustained completion (持続して至る力動):
+  preserves an emerging tendency and carries it toward completion.
+  (立ち上がった傾向を保持し，完遂へ運ぶ作用)
 
 - Fk:
-  gathering and binding; structural cohesion of dispersed content.
-  (集束・構造化・枠組み化)
+  dynamic force of gathering (掻き集める力動):
+  gathers dispersed content and gives it coherence and structure.
+  (分散した内容を集束し，まとまりと構造を与える作用)
 
 - Fm:
-  circulation through a medium; ongoing propagation and re-organization.
-  (媒体・循環・伝播)
+  dynamic force of approach (対象へ向かう力動):
+  moves toward an object and reorganizes the configuration through turning or circulation.
+  (対象へ向かい，旋回・循環を通じて再編成する作用)
 
 - Fs:
-  surface contact, signaling, and fine-grained adjustment toward harmony.
-  (接触・信号化・相互作用)
+  dynamic force of settling toward the center (中心へ静まる力動):
+  settles spirally toward the center and supports inward stabilization and local convergence.
+  (螺旋状に中心へ静まり，内向き安定化と局所的収束を担う作用)
 
 - Fr:
-  spiral-like spreading; rotational shaping and curvature of the surrounding field.
-  (回転的整形・螺旋的拡がり・曲率づけ)
+  dynamic force of spiral diffusion (螺旋状に拡散する力動):
+  diffuses spirally outward and permeates the surrounding field.
+  (螺旋状に外へ拡散し，周辺場へ展開・浸透する作用)
 
 - Fh:
-  opening and development; Higgs-like mass-loading into explicit, observable form.
-  (重み付け・具体化のロード・開きと展開)
+  dynamic force of surface expansion (表面に拡がる力動):
+  develops latent structure into an explicit and observable form.
+  (潜在構造を開発・開顕し，明示的・観測可能な形へ展開する作用)
 
 - Fn:
-  inward condensation; integration and maturation at the center.
-  (内面化・統合・安定化)
+  dynamic force of central maturation (中心に煮つまる力動):
+  condenses toward the center and supports internalization, integration, maturation, and stabilization.
+  (中心へ凝縮し，内面化・統合・成熟・安定化する作用)
 
 Within this Core Spec, we intentionally avoid over-fixing the detailed properties of the Father Consonant Operators. They are treated as “eight types of operators that impose structural action on the Mother Vowel Fields”. As needed, individual papers may introduce matrix representations or role tables to refine or extend this.
 
@@ -207,7 +223,7 @@ The phase indices of the Father Consonant Operators are assigned as yin-yang com
 In particular, 0 and 9 are connected via the U-field and form a subject–object axis (U-bridge: U-ブリッジ). This provides the skeletal structure for the 0-9-0 helical loop that links subject and object.
 
 ------------------------------------------------------------
-H. 3×3 Matrix (方陣), Yin–Yang Structure (陰陽), and Diagonals (対角線) A/B
+H. 3×3 Matrix (方陣), Yin–Yang Structure (陰陽構造)
 ------------------------------------------------------------
 
 We place the nine phases into a 3×3 matrix and use the structure of rows, columns, and diagonals to define yin-yang relations and two types of diagonal loops.
@@ -229,14 +245,6 @@ Within this Core Spec, we only fix the following abstract structures:
   Opposite edges of the 3×3 matrix are treated as pairs of complementary qualities.
   Examples include subject-oriented vs. object-oriented, inward vs. outward, etc.
   Which edge corresponds to which pair is determined by each paper’s context.
-
-- Diagonal A (対角線 A):
-  The diagonal running from top-left to bottom-right, (k0, k4, k8), is interpreted as an “A-type worldline” that runs from the subject side toward the object side.
-
-- Diagonal B (対角線 B):
-  The diagonal running from bottom-left to top-right, (k6, k4, k2), is interpreted as a “B-type worldline” returning from the object side to the subject side.
-
-Each diagonal is treated as a loop with a distinct directionality within the 9-phase helical structure. The concrete correspondence with phase numbers follows the figures and 3×3 matrix diagrams in each K2 paper.
 
 ------------------------------------------------------------
 I. Treatment of Resonance (共鳴)
