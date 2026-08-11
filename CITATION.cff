@@ -5,6 +5,6 @@ authors:
   - family-names: Haruno
     given-names: Masakazu
   - name: "KITT (ChatGPT dialog partner)"
-version: "1.0.0"
-doi: "10.5281/zenodo.18810118"
+version: "1.0.2"
+doi: "10.5281/zenodo.18810117"
 url: "https://github.com/k2-resonance-lab/k2-assistant-core-spec"
