@@ -29,13 +29,13 @@ This repository is the core spec that an LLM can load as "project instructions" 
 
 ## Companion documents (hosted elsewhere)
 
-- Overview paper (Japanese):  
-  *K² Unified Resonance Framework: An Overview of the K² Trilogy — Japanese Version*  
-  – Zenodo: 10.5281/zenodo.18810879
+- Overview paper (Japanese):
+  *K² Unified Resonance Framework: An Overview of the K² Trilogy — Japanese Version*
+  – DOI: 10.5281/zenodo.18810878
 
-- Overview paper (English, in preparation):  
-  will be released as a separate Zenodo record and/or repository.
-
+- Overview paper (English):
+  *K² Unified Resonance Framework: An Overview of the K² Trilogy — English Version*
+  – DOI: 10.5281/zenodo.19205540
 ---
 
 ## Who is this for?
