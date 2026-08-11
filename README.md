@@ -36,6 +36,10 @@ This repository is the core spec that an LLM can load as "project instructions" 
 - Overview paper (English):
   *K² Unified Resonance Framework: An Overview of the K² Trilogy — English Version*
   – DOI: 10.5281/zenodo.19205540
+
+- For Human OS use: add the K² Human OS PDF as a reference document
+(available separately after publication).
+  
 ---
 
 ## Who is this for?
@@ -139,5 +143,3 @@ You are free to share and adapt this specification, even for commercial purposes
 as long as you give appropriate credit to the original authors and indicate if changes were made.
 
 See the `LICENSE` file for full details.
-
-(Adjust the actual file paths/names to match your layout.)
