@@ -120,7 +120,7 @@ K² Assistant Core Spec は、
 - 父韻作用子（Father Consonant Operators）
 - 子音状態（Child Syllable States）
 - 九位相ヘリカル構造と 0–9–0ヘリカルループ
-- 3×3 方陣ベースの陰陽・対角線構造
+- 3×3 方陣ベースの陰陽構造
 - 「共鳴」の構造的定義
 
 といった K² Trilogy の中核概念だけをまとめた  
