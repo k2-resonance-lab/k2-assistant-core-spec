@@ -161,9 +161,11 @@ reinterpretations of the traditional kotodama dynamic rhymes
   condenses toward the center and supports internalization, integration, maturation, and stabilization.
   (中心へ凝縮し，内面化・統合・成熟・安定化する作用)
 
-These qualitative labels are not intended to identify the FCOs with forces or particles in the Standard Model.
-Within this Core Spec, we intentionally avoid over-fixing the detailed properties of the Father Consonant Operators. They are treated as “eight types of operators that impose structural action on the Mother Vowel Fields”. As needed, individual papers may introduce matrix representations or role tables to refine or extend this.
+These qualitative labels are not intended to identify the FCOs
+with forces or particles in the Standard Model.
 
+In the present specification, the FCOs are treated primarily as eight qualitative operators that give structural action to the Mother Vowel Fields.
+More detailed matrix representations or functional tables may be introduced where required by individual K2 papers.
 ------------------------------------------------------------
 E. Child Syllable States (CSS / 子音状態)
 ------------------------------------------------------------
@@ -210,7 +212,7 @@ We introduce a phase index k in {0,1,...,8} and interpret each k as part of the 
 We then interpret:
 
 - 0: subject-side pole (base consciousness field)
-- 1-8: outer phase indices corresponding to the eight Father Consonant Operators
+- 1-8: the eight Father Consonant Operators, with their concrete phase assignments defined below
 - 9: object-side completion phase
 - 9 -> 0: return loop in which the projected structure re-enters the base consciousness field (0-9-0 helical loop)
 
@@ -221,13 +223,20 @@ The phase indices of the Father Consonant Operators are assigned as yin-yang com
   (3,6) <-> (Fs, Fr)
   (4,5) <-> (Fh, Fn)
 
+Thus,
+
+1 <-> Ft, 2 <-> Fk, 3 <-> Fs, 4 <-> Fh
+5 <-> Fn, 6 <-> Fr, 7 <-> Fm, 8 <-> Fy.
+
 In particular, 0 and 9 are connected via the U-field and form a subject–object axis (U-bridge: U-ブリッジ). This provides the skeletal structure for the 0-9-0 helical loop that links subject and object.
 
 ------------------------------------------------------------
 H. 3×3 Matrix (方陣), Yin–Yang Structure (陰陽構造)
 ------------------------------------------------------------
 
-We place the nine phases into a 3×3 matrix and use the structure of rows, columns, and diagonals to define yin-yang relations and two types of diagonal loops.
+We place the nine phases may be arranged in a 3×3 matrix in order to
+visualize complementary relations, cyclic structure,
+and opposite-edge symmetry.
 
 As an abstract index configuration, we consider a 3×3 matrix:
 
@@ -247,6 +256,7 @@ Within this Core Spec, we only fix the following abstract structures:
   Examples include subject-oriented vs. object-oriented, inward vs. outward, etc.
   Which edge corresponds to which pair is determined by each paper’s context.
 
+Accordingly, the 3×3 matrix is treated here as a structural visualization device rather than as an independent dynamical rule.
 ------------------------------------------------------------
 I. Treatment of Resonance (共鳴)
 ------------------------------------------------------------
