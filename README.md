@@ -28,8 +28,9 @@ This repository is the core spec that an LLM can load as "project instructions" 
 ## Repository contents
 
 - `K2_Assistant_CoreSpec.txt`  
-  Minimal instruction set for K²-compliant conversational assistants  
-  (plain-text, ASCII-safe, with key Japanese terms in parentheses).
+  Minimal instruction set for K²-compliant conversational assistants
+(Japanese-based plain-text implementation template,
+with key English terms in parentheses).
 
 ## Companion documents (hosted elsewhere)
 
@@ -102,10 +103,7 @@ For other LLM platforms, use the equivalent field for:
 
 ## Status
 
-- Core spec: structurally stable, but still open to refinement.
-- Overview paper:
-  - Japanese version: published (Zenodo v1.0.0, terminology synced with Core Spec)
-  - English version: nearly ready (final terminology & consistency check)
+- Core spec: Core Spec: actively maintained and synchronized with the current K² terminology.
 - Future work:
   - DNA Lab notes (K² × genetic code)
   - Cosmogenesis paper
