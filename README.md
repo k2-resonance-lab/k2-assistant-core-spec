@@ -3,6 +3,10 @@
 For LLM integration: copy the plain-text Core Spec into your project/system instructions.
 For Human OS use: add the K² Human OS PDF as a reference document.
 
+This plain-text edition is a compact implementation template optimized
+for direct use in LLM project instructions.
+Formal Japanese and English reference editions are archived separately on Zenodo.
+
 Minimal instruction set for building a K²-compliant conversational assistant, based on:
 - Mother Vowel Fields (MVF)
 - Father Consonant Operators (FCO)
