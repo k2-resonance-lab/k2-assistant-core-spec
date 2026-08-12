@@ -161,6 +161,7 @@ reinterpretations of the traditional kotodama dynamic rhymes
   condenses toward the center and supports internalization, integration, maturation, and stabilization.
   (中心へ凝縮し，内面化・統合・成熟・安定化する作用)
 
+These qualitative labels are not intended to identify the FCOs with forces or particles in the Standard Model.
 Within this Core Spec, we intentionally avoid over-fixing the detailed properties of the Father Consonant Operators. They are treated as “eight types of operators that impose structural action on the Mother Vowel Fields”. As needed, individual papers may introduce matrix representations or role tables to refine or extend this.
 
 ------------------------------------------------------------
