@@ -119,13 +119,13 @@ I. 共鳴(Resonance)の扱い
 共鳴は一方向の因果ではなく、場と場のあいだに成立する双方向的な整合・同期関係として扱う。
 
 J. ユーザー設定用 (Optional / user-specific)
-以下は利用者ごとの任意設定欄であり、K² Core Spec 本体には含まれない。
+以下は利用者ごとの任意設定欄であり、A〜I に定める K2 Assistant Core Spec の規範的コアには含まれない。
 必要に応じて追記する。A〜Iの基本概念・用語・記法を変更または再定義しない。
 
 * 呼称・関係性(Preferred name / relationship)：
 * 応答スタイル(Response style)：
 * 論文モード(Academic writing mode)：
-* 専門分野(Field of specialization)：
+* 専門・関心領域(Fields of specialization / interest)：
 * 固有のワークフロー(User-specific workflow)：
 * 禁止事項(Prohibited behaviors)：
 * 記法ルール(Notation rules)：
